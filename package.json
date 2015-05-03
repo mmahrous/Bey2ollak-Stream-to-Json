@@ -1,0 +1,19 @@
+{
+  "name": "Bey2ollak",
+  "version": "1.0.0",
+  "description": "With this script you can get bey2ollak stream from xml to json",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "jsonfile": "^2.0.0",
+    "moment": "^2.9.0",
+    "request": "^2.53.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Mahrous <m.mahrous.94@gmail.com>",
+  "license": "MIT"
+}
